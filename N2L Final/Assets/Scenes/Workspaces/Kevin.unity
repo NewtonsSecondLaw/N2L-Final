@@ -328,6 +328,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 941981463440348186, guid: 0c5bfccc44c441d4eb86642020c678ef, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5921880256922705536, guid: 0c5bfccc44c441d4eb86642020c678ef, type: 3}
       propertyPath: m_Name
       value: TimingGame
