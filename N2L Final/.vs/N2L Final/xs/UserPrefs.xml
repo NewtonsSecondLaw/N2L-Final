@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{E46D2AC1-37B3-330C-1FBE-D498AFC2833D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.visualscripting@1.9.2/Runtime/VisualScripting.Flow/Flow.cs">
+    <Files>
+      <File FileName="Library/PackageCache/com.unity.visualscripting@1.9.2/Runtime/VisualScripting.Flow/Flow.cs" Line="352" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="N2L Final" expanded="True">
+            <Node name="Assets" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9e04b1fc-1962-449b-a7f2-dadc4c141447" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
