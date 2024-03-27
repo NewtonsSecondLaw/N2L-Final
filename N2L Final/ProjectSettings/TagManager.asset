@@ -6,7 +6,6 @@ TagManager:
   tags:
   - note
   - Platform
-  - notecheckbox
   layers:
   - Default
   - TransparentFX
