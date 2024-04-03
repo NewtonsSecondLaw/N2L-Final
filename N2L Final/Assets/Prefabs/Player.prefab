@@ -19,7 +19,7 @@ GameObject:
   - component: {fileID: 185795619279045678}
   - component: {fileID: 5509892868446621888}
   - component: {fileID: -6948001849935396422}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -324,7 +324,7 @@ GameObject:
   - component: {fileID: 3099013300110565648}
   - component: {fileID: 7570347795943265302}
   - component: {fileID: 2862271555525616790}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pulse
   m_TagString: Pulse
   m_Icon: {fileID: 0}
@@ -489,7 +489,7 @@ GameObject:
   - component: {fileID: 5292550528322143934}
   - component: {fileID: 1717760833812643442}
   - component: {fileID: 5333020541479917925}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cloak
   m_TagString: Untagged
   m_Icon: {fileID: 0}
