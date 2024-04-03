@@ -31,15 +31,6 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
-                },
-                {
-                    "name": "MouseRightButton",
-                    "type": "Button",
-                    "id": "0e791746-2d1a-4d05-8ba4-ca87ecb2c7b4",
-                    "expectedControlType": "Button",
-                    "processors": "",
-                    "interactions": "Tap",
-                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -177,8 +168,8 @@
                 },
                 {
                     "name": "",
-                    "id": "b884e74c-bbf0-46c3-bb5b-95687edb224a",
-                    "path": "<Keyboard>/ctrl",
+                    "id": "17023b43-468c-42c3-881b-47422fc8f6fc",
+                    "path": "<Keyboard>/j",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -188,8 +179,8 @@
                 },
                 {
                     "name": "",
-                    "id": "041e61db-afec-4156-9dd1-f1ac166024ad",
-                    "path": "<Keyboard>/space",
+                    "id": "b884e74c-bbf0-46c3-bb5b-95687edb224a",
+                    "path": "<Keyboard>/ctrl",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -232,8 +223,30 @@
                 },
                 {
                     "name": "",
-                    "id": "17023b43-468c-42c3-881b-47422fc8f6fc",
-                    "path": "<Keyboard>/j",
+                    "id": "dd0766ca-aafc-4dc2-9b40-d0d0c232dd4a",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Attack/Hide",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6e3fe045-bef5-4952-9508-95005a98a116",
+                    "path": "<Keyboard>/upArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Attack/Hide",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "041e61db-afec-4156-9dd1-f1ac166024ad",
+                    "path": "<Keyboard>/space",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -249,17 +262,6 @@
                     "processors": "",
                     "groups": "",
                     "action": "Jump",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "c24c24c4-480d-403e-9f53-520300722919",
-                    "path": "<Mouse>/rightButton",
-                    "interactions": "Tap",
-                    "processors": "",
-                    "groups": "",
-                    "action": "MouseRightButton",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
