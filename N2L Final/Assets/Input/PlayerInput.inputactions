@@ -1,5 +1,5 @@
 {
-    "name": "Input Actions",
+    "name": "PlayerInput",
     "maps": [
         {
             "name": "Player",
@@ -30,6 +30,15 @@
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "MouseRightButton",
+                    "type": "Button",
+                    "id": "0e791746-2d1a-4d05-8ba4-ca87ecb2c7b4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Tap",
                     "initialStateCheck": false
                 }
             ],
@@ -240,6 +249,17 @@
                     "processors": "",
                     "groups": "",
                     "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c24c24c4-480d-403e-9f53-520300722919",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MouseRightButton",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
