@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2815688885399078818}
   - component: {fileID: 525894163778970090}
   - component: {fileID: 1766875853107618807}
-  m_Layer: 3
+  m_Layer: 0
   m_Name: Basic Platform
   m_TagString: Platform
   m_Icon: {fileID: 0}
@@ -128,5 +128,5 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.8, y: 0.15}
+  m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
