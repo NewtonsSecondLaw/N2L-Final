@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: MovingPlatform
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-145.0,"y":-106.0},"zoom":1.0,"elements":[{"nest":{"source":"Macro","macro":0,"embed":null},"defaultValues":{},"position":{"x":-212.0,"y":-115.0},"guid":"74764fc4-43e5-448d-809e-4b8b8e6e14c7","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit"},{"nest":{"source":"Macro","macro":1,"embed":null},"defaultValues":{},"position":{"x":-214.0,"y":-34.0},"guid":"67cf200a-870d-4519-ac9c-a5e2c9069ba2","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit"}],"$version":"A"}}'
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-145.0,"y":-106.0},"zoom":1.0,"elements":[{"nest":{"source":"Macro","macro":0,"embed":null},"defaultValues":{},"position":{"x":-212.0,"y":-115.0},"guid":"74764fc4-43e5-448d-809e-4b8b8e6e14c7","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit"},{"nest":{"source":"Macro","macro":1,"embed":null},"defaultValues":{},"position":{"x":-217.0,"y":23.0},"guid":"67cf200a-870d-4519-ac9c-a5e2c9069ba2","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit"}],"$version":"A"}}'
     _objectReferences:
     - {fileID: 11400000, guid: 19728e6f26eb6fd48adfa8fcab96638c, type: 2}
     - {fileID: 11400000, guid: f522d94ca8fe9454283a1cd656dda954, type: 2}
