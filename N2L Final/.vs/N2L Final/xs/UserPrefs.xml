@@ -1,13 +1,19 @@
 ﻿<Properties StartupConfiguration="{E46D2AC1-37B3-330C-1FBE-D498AFC2833D}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.visualscripting@1.9.2/Runtime/VisualScripting.Flow/Flow.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Art/craftpix-net-104941-lab-game-tileset-pixel-art/license.txt">
     <Files>
       <File FileName="Library/PackageCache/com.unity.visualscripting@1.9.2/Runtime/VisualScripting.Flow/Flow.cs" Line="352" Column="18" />
+      <File FileName="Assets/Art/craftpix-net-104941-lab-game-tileset-pixel-art/Font.txt" Line="1" Column="1" />
+      <File FileName="Assets/Art/craftpix-net-104941-lab-game-tileset-pixel-art/license.txt" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="N2L Final" expanded="True">
-            <Node name="Assets" expanded="True" selected="True" />
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Art" expanded="True">
+                <Node name="craftpix-net-104941-lab-game-tileset-pixel-art" expanded="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -15,7 +21,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9e04b1fc-1962-449b-a7f2-dadc4c141447" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="36cf1344-5fb4-4192-b3ce-ea12944caa98" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
