@@ -739,7 +739,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2728592084379501429, guid: d4fa9bc9321d14141b93941e092aaf77, type: 3}
       propertyPath: orthographic size
-      value: 3.1640625
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 5638543534260072604, guid: d4fa9bc9321d14141b93941e092aaf77, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2565,6 +2565,14 @@ PrefabInstance:
     - target: {fileID: 3001844898828008884, guid: f7bfc1bd65b804c409b2a2090e2967ef, type: 3}
       propertyPath: m_Name
       value: Goal
+      objectReference: {fileID: 0}
+    - target: {fileID: 3490065855803757245, guid: f7bfc1bd65b804c409b2a2090e2967ef, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.51
+      objectReference: {fileID: 0}
+    - target: {fileID: 3490065855803757245, guid: f7bfc1bd65b804c409b2a2090e2967ef, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.51
       objectReference: {fileID: 0}
     - target: {fileID: 3965244619365362864, guid: f7bfc1bd65b804c409b2a2090e2967ef, type: 3}
       propertyPath: _data._json
