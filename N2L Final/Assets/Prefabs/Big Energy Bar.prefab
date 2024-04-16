@@ -114,7 +114,7 @@ GameObject:
   - component: {fileID: 6698910928008516963}
   - component: {fileID: 7399621769716678587}
   m_Layer: 5
-  m_Name: Energy Bar 1
+  m_Name: Big Energy Bar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -170,7 +170,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: fff40fa28e83ee2498f37985367b31f0, type: 2}
+    - {fileID: 11400000, guid: 944cbf7d2a9abf4448870c7e5c56b298, type: 2}
 --- !u!1 &4494314236374789203
 GameObject:
   m_ObjectHideFlags: 0
