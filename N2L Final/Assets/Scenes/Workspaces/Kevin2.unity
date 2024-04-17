@@ -419,6 +419,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Main Camera
       objectReference: {fileID: 0}
+    - target: {fileID: 2728592084379501429, guid: d4fa9bc9321d14141b93941e092aaf77, type: 3}
+      propertyPath: orthographic size
+      value: 5.109375
+      objectReference: {fileID: 0}
+    - target: {fileID: 2728592084379501429, guid: d4fa9bc9321d14141b93941e092aaf77, type: 3}
+      propertyPath: m_NormalizedViewPortRect.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2728592084379501429, guid: d4fa9bc9321d14141b93941e092aaf77, type: 3}
+      propertyPath: m_NormalizedViewPortRect.height
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8038482411290253578, guid: d4fa9bc9321d14141b93941e092aaf77, type: 3}
       propertyPath: m_Follow
       value: 
@@ -921,6 +933,14 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2496697795200255757, guid: 457ab1bd0571b9d4cabdcdc7e678e256, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2496697795200255757, guid: 457ab1bd0571b9d4cabdcdc7e678e256, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3319591728771182406, guid: 457ab1bd0571b9d4cabdcdc7e678e256, type: 3}
       propertyPath: m_Name
       value: HUD
@@ -1004,6 +1024,10 @@ PrefabInstance:
     - target: {fileID: 4838285527415371358, guid: 457ab1bd0571b9d4cabdcdc7e678e256, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8621076678260378723, guid: 457ab1bd0571b9d4cabdcdc7e678e256, type: 3}
+      propertyPath: m_ReferenceResolution.y
+      value: 360
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
