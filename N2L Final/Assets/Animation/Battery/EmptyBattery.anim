@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Battery
+  m_Name: EmptyBattery
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,23 +21,13 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: 453998626, guid: b5665283da158744e975e564d10c167c, type: 3}
-    - time: 0.16666667
-      value: {fileID: 1042279763, guid: b5665283da158744e975e564d10c167c, type: 3}
-    - time: 0.33333334
-      value: {fileID: -762132056, guid: b5665283da158744e975e564d10c167c, type: 3}
-    - time: 0.5
-      value: {fileID: -693165839, guid: b5665283da158744e975e564d10c167c, type: 3}
-    - time: 0.6666667
-      value: {fileID: 154422311, guid: b5665283da158744e975e564d10c167c, type: 3}
-    - time: 0.8333333
-      value: {fileID: -1534374607, guid: b5665283da158744e975e564d10c167c, type: 3}
+      value: {fileID: 21300000, guid: 26afbb234ed806843ad527e7775f5ca6, type: 3}
     attribute: m_Sprite
     path: 
     classID: 114
     script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
     flags: 2
-  m_SampleRate: 6
+  m_SampleRate: 1
   m_WrapMode: 0
   m_Bounds:
     m_Center: {x: 0, y: 0, z: 0}
@@ -54,12 +44,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: 453998626, guid: b5665283da158744e975e564d10c167c, type: 3}
-    - {fileID: 1042279763, guid: b5665283da158744e975e564d10c167c, type: 3}
-    - {fileID: -762132056, guid: b5665283da158744e975e564d10c167c, type: 3}
-    - {fileID: -693165839, guid: b5665283da158744e975e564d10c167c, type: 3}
-    - {fileID: 154422311, guid: b5665283da158744e975e564d10c167c, type: 3}
-    - {fileID: -1534374607, guid: b5665283da158744e975e564d10c167c, type: 3}
+    - {fileID: 21300000, guid: 26afbb234ed806843ad527e7775f5ca6, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
