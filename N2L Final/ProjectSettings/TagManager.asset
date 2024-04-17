@@ -9,6 +9,7 @@ TagManager:
   - Pulse
   - SpawnPoint
   - Pickup
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -43,12 +44,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Player
-    uniqueID: 2916257595
+  - name: Background
+    uniqueID: 1950590045
+    locked: 0
+  - name: Ground
+    uniqueID: 382821125
     locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Ground
-    uniqueID: 382821125
+  - name: Player
+    uniqueID: 2916257595
     locked: 0
