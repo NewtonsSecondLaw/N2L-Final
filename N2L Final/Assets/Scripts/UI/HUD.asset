@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: HUD
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"nest":{"source":"Macro","macro":0,"embed":null},"defaultValues":{},"position":{"x":-235.0,"y":-75.0},"guid":"90227068-36a5-446c-b421-3f61ba51de4b","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit"}],"$version":"A"}}'
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-131.0,"y":-101.0},"zoom":1.0,"elements":[{"nest":{"source":"Macro","macro":0,"embed":null},"defaultValues":{},"position":{"x":-235.0,"y":-75.0},"guid":"90227068-36a5-446c-b421-3f61ba51de4b","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit"},{"nest":{"source":"Macro","macro":1,"embed":null},"defaultValues":{},"position":{"x":-236.0,"y":10.0},"guid":"36a07df4-6eda-4785-bd34-fb0e939f2cfc","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit"}],"$version":"A"}}'
     _objectReferences:
     - {fileID: 11400000, guid: 0e370dc24e7bb024285a07ac5e8b32cd, type: 2}
+    - {fileID: 11400000, guid: fff40fa28e83ee2498f37985367b31f0, type: 2}
