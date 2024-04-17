@@ -169,6 +169,39 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 4950857529711197875, guid: 28dc7cb0ff9e14976aa20dd7d78fda30, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"HUD","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"spawnPoint","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Transform,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"speed","value":{"$content":5.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"hiddenPlayer","value":null,"typeHandle":{"Identification":"UnityEngine.Sprite,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"hideSpeedMult","value":{"$content":0.25,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"jumpHeight","value":{"$content":7.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"energyDecayMult","value":{"$content":0.25,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"energy","value":{"$content":100.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"coolDown","value":{"$content":1.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"batterySize","value":{"$content":25.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"batteryBonusSize","value":{"$content":10.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"timingGame","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"hiding","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 4950857529711197875, guid: 28dc7cb0ff9e14976aa20dd7d78fda30, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4950857529711197875, guid: 28dc7cb0ff9e14976aa20dd7d78fda30, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 1487535604}
+    - target: {fileID: 4950857529711197875, guid: 28dc7cb0ff9e14976aa20dd7d78fda30, type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 1798921302}
+    - target: {fileID: 4950857529711197875, guid: 28dc7cb0ff9e14976aa20dd7d78fda30, type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 1786093718}
     - target: {fileID: 6366929589316199600, guid: 28dc7cb0ff9e14976aa20dd7d78fda30, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.0147
@@ -224,11 +257,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3211981504521100807, guid: d649d8751c744074fa122eb1401b4ba4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.46
+      value: 1.762
       objectReference: {fileID: 0}
     - target: {fileID: 3211981504521100807, guid: d649d8751c744074fa122eb1401b4ba4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.79
+      value: 1.897
       objectReference: {fileID: 0}
     - target: {fileID: 3211981504521100807, guid: d649d8751c744074fa122eb1401b4ba4, type: 3}
       propertyPath: m_LocalPosition.z
@@ -268,7 +301,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5852665335235665278, guid: d649d8751c744074fa122eb1401b4ba4, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -554,6 +587,11 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 49415223}
   m_SourcePrefab: {fileID: 100100000, guid: d4fa9bc9321d14141b93941e092aaf77, type: 3}
+--- !u!1 &1487535604 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3319591728771182406, guid: 457ab1bd0571b9d4cabdcdc7e678e256, type: 3}
+  m_PrefabInstance: {fileID: 4166759675092260210}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1734301258 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7012049899294884266, guid: e37d9dba32435d74bac2f85b5d68d04a, type: 3}
@@ -709,6 +747,16 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a847f644d18fb17468fd1b9130db30e3, type: 3}
+--- !u!1 &1786093718 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8117120421835937337, guid: 28dc7cb0ff9e14976aa20dd7d78fda30, type: 3}
+  m_PrefabInstance: {fileID: 51402663}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1798921302 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5939159371192949444, guid: a847f644d18fb17468fd1b9130db30e3, type: 3}
+  m_PrefabInstance: {fileID: 1767303863}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1396867844722591786
 PrefabInstance:
   m_ObjectHideFlags: 0
