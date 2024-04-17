@@ -23,5 +23,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level 3.unity
     guid: c32af3c013afb314faf3d8263f313a85
+  - enabled: 1
+    path: Assets/Scenes/GoalScene.unity
+    guid: fb2f81c56ac799d46bd402adbbb830e4
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 6c4d220599838c34c89719c63819208e, type: 2}
