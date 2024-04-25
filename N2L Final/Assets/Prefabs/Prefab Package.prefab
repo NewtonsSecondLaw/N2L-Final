@@ -411,20 +411,8 @@ PrefabInstance:
       value: Main Camera
       objectReference: {fileID: 0}
     - target: {fileID: 2728592084379501429, guid: d4fa9bc9321d14141b93941e092aaf77, type: 3}
-      propertyPath: orthographic size
-      value: 3.203125
-      objectReference: {fileID: 0}
-    - target: {fileID: 2728592084379501429, guid: d4fa9bc9321d14141b93941e092aaf77, type: 3}
-      propertyPath: m_NormalizedViewPortRect.x
-      value: 0.00068587105
-      objectReference: {fileID: 0}
-    - target: {fileID: 2728592084379501429, guid: d4fa9bc9321d14141b93941e092aaf77, type: 3}
       propertyPath: m_NormalizedViewPortRect.y
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2728592084379501429, guid: d4fa9bc9321d14141b93941e092aaf77, type: 3}
-      propertyPath: m_NormalizedViewPortRect.width
-      value: 0.99862826
       objectReference: {fileID: 0}
     - target: {fileID: 2728592084379501429, guid: d4fa9bc9321d14141b93941e092aaf77, type: 3}
       propertyPath: m_NormalizedViewPortRect.height
