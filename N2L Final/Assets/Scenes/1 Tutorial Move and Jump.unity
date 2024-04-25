@@ -4846,6 +4846,66 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &1949758770
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1949758773}
+  - component: {fileID: 1949758772}
+  - component: {fileID: 1949758771}
+  m_Layer: 0
+  m_Name: VisualScripting SceneVariables
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1949758771
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1949758770}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 765181c9ef4b24d32a4f7cbd2ef370dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1949758772
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1949758770}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Scene","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!4 &1949758773
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1949758770}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2082266860
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4969,15 +5029,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8929617644718925879, guid: 20aa961279eba544e80e83aae5db1980, type: 3}
       propertyPath: orthographic size
-      value: 3.7890625
+      value: 3.203125
       objectReference: {fileID: 0}
     - target: {fileID: 8929617644718925879, guid: 20aa961279eba544e80e83aae5db1980, type: 3}
       propertyPath: m_NormalizedViewPortRect.x
-      value: 0
+      value: 0.00068587105
       objectReference: {fileID: 0}
     - target: {fileID: 8929617644718925879, guid: 20aa961279eba544e80e83aae5db1980, type: 3}
       propertyPath: m_NormalizedViewPortRect.width
-      value: 1
+      value: 0.99862826
       objectReference: {fileID: 0}
     - target: {fileID: 9021346695333413202, guid: 20aa961279eba544e80e83aae5db1980, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5036,3 +5096,4 @@ SceneRoots:
   - {fileID: 1726101035}
   - {fileID: 254567389}
   - {fileID: 1444552265}
+  - {fileID: 1949758773}
