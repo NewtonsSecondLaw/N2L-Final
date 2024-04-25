@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 46614bcaf6fe0274aa134e924baa2cb7
+  - enabled: 1
     path: Assets/Scenes/1 Tutorial Move and Jump.unity
     guid: fb378998834f9234eafbac0bebbfe1bc
   - enabled: 1

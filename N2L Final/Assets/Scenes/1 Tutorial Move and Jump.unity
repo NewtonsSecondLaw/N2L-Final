@@ -161,16 +161,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Key A: Right
+  m_text: 'Move: Left Stick / DPad
 
-    Key D: Left
-
-    W & Space key: Jump
-
-    Button South
-    & Left Stick Up: Jump
-
-'
+    Jump: A'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
@@ -300,8 +293,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1, y: -1.71}
-  m_SizeDelta: {x: 20, y: 5}
+  m_AnchoredPosition: {x: -6.5, y: -3}
+  m_SizeDelta: {x: 8, y: 1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &397947992
 GameObject:
@@ -4921,15 +4914,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8929617644718925879, guid: 20aa961279eba544e80e83aae5db1980, type: 3}
       propertyPath: orthographic size
-      value: 3.765625
+      value: 3.203125
       objectReference: {fileID: 0}
     - target: {fileID: 8929617644718925879, guid: 20aa961279eba544e80e83aae5db1980, type: 3}
       propertyPath: m_NormalizedViewPortRect.x
-      value: 0
+      value: 0.00068587105
       objectReference: {fileID: 0}
     - target: {fileID: 8929617644718925879, guid: 20aa961279eba544e80e83aae5db1980, type: 3}
       propertyPath: m_NormalizedViewPortRect.width
-      value: 1
+      value: 0.99862826
       objectReference: {fileID: 0}
     - target: {fileID: 9021346695333413202, guid: 20aa961279eba544e80e83aae5db1980, type: 3}
       propertyPath: m_LocalPosition.x
