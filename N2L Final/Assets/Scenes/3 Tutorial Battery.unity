@@ -2148,11 +2148,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1184893777254259678, guid: 20aa961279eba544e80e83aae5db1980, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.2623506
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1184893777254259678, guid: 20aa961279eba544e80e83aae5db1980, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.07512975
+      value: 1.0000002
       objectReference: {fileID: 0}
     - target: {fileID: 1209489587650833069, guid: 20aa961279eba544e80e83aae5db1980, type: 3}
       propertyPath: m_AnchorMax.x
@@ -2180,15 +2180,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6405563085622928383, guid: 20aa961279eba544e80e83aae5db1980, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.2623506
+      value: 4.524423
       objectReference: {fileID: 0}
     - target: {fileID: 6405563085622928383, guid: 20aa961279eba544e80e83aae5db1980, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.07513
+      value: 1.7843599
       objectReference: {fileID: 0}
     - target: {fileID: 8929617644718925879, guid: 20aa961279eba544e80e83aae5db1980, type: 3}
       propertyPath: orthographic size
-      value: 3.7890625
+      value: 4.5
       objectReference: {fileID: 0}
     - target: {fileID: 8929617644718925879, guid: 20aa961279eba544e80e83aae5db1980, type: 3}
       propertyPath: m_NormalizedViewPortRect.x
@@ -3312,11 +3312,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Use Battery: B
+  m_text: 'Use Battery: E / L
 
-
-    Bring Full Batteries through the Door for an Energy
-    Boost'
+    Bring Full Batteries through the Door for a Permanent
+    Energy Boost'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
